@@ -1,1 +1,2 @@
 This is a for educational purposes.
+We are creating this repository to train students on how to use GitHub.
